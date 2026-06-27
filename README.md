@@ -119,7 +119,7 @@ Autoren:
 Maryam Akbari - Hardware & Konzept  
 Mariam Barakzai - Software & Programmierung
 
-HTL Wien | Schuljahr 2026
+HTL Wien | Schuljahr 2025
 
 Lizenz:
 
